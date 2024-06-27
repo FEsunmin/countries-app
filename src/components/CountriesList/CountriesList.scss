@@ -1,0 +1,7 @@
+.cardGrid {
+  display: grid;
+  place-items: center;
+  grid-template-columns: repeat(4, 1fr);
+  list-style: none;
+  row-gap: 50px;
+}
